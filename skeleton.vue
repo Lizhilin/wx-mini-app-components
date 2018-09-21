@@ -1,5 +1,4 @@
 <template>
-  <!--<canvas canvas-id="skeleton" disable-scroll="true"></canvas>-->
   <div :style="{width: systemInfo.width+'px', height: systemInfo.height+'px', backgroundColor: bgcolor}"
         style="position: absolute; left:0; top:0; z-index:9998; overflow: hidden;">
 
